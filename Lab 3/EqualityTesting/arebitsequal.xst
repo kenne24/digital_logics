@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/rapha/Documents/Verilog Works/EqualityTesting/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/rapha/Documents/Verilog Works/EqualityTesting/xst"
+elaborate
+-ifn arebitsequal.prj
+-ifmt mixed
