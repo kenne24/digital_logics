@@ -1,0 +1,8 @@
+Release 14.5 Drc P.58f (nt)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+Thu Sep 13 08:25:54 2018
+
+drc -z PowerOf2.ncd PowerOf2.pcf
+
+DRC detected 0 errors and 0 warnings.
